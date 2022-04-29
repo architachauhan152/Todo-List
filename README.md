@@ -4,9 +4,12 @@ User can make a todo list and can add the items in the list with counting done a
 
 1. User Interface to add todo items:
 
-![todo1](https://user-images.githubusercontent.com/93419962/153701522-9fe68633-b160-40f8-9765-b3a8fe284c06.PNG)
+![firstpage](https://user-images.githubusercontent.com/93373957/165877553-86924845-918d-4567-8a23-d91bba51fac2.png)
+
+
 
 
 2. Active tasks number with done todos can be shown with highlights:
 
-![todo](https://user-images.githubusercontent.com/93419962/153701465-76673cee-5310-415b-ac78-8277ad2183c0.png)
+![todolist](https://user-images.githubusercontent.com/93373957/165877571-c90465c4-e762-4c4d-ac1f-8e5504fa79f8.png)
+

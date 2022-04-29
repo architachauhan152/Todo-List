@@ -1,0 +1,48 @@
+body{
+    background-color: greenyellow;
+}
+form{
+    display: flex;
+    border: 2px solid black;
+    padding-bottom: 10px;
+}
+#div1{
+    margin: 10px;
+
+}
+button{
+    margin-left: 30px;
+    background-color: red;
+    margin-top: 13px;
+    height: 40px;
+    width: 80px;
+    text-align: center;
+    outline:none;
+}
+input{
+    height: 25px;
+    border: 2px solid black;
+}
+label{
+    font-size: larger;
+    font-weight: 700;
+    font-family: cursive;
+}
+
+#id3{
+     float: right;
+     margin-left: 600px;
+     font-size: x-large;
+     font-weight: 700;
+}
+h1{
+    margin-right: 100px;
+}
+#id4{
+    margin-left: 90px;
+}
+
+#todo_list{
+    width:100%;
+    border-top:1px solid black;
+}

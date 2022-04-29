@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css"/>
+    <title>Todo</title>
+    
+</head>
+<body>
+    <form id="main" onsubmit="sub(event)">
+        <div id="div1">
+            <label>Task Name</label>
+            <input type="text" id="name" placeholder="Enter Here"/>
+        </div>
+        <div id="id2">
+            <button>Add Task</button>
+        </div>
+        
+        <div id="id3">
+            <label for="">Active Tasks</label>
+            <h2 id="id4">0</h2>
+        </div>
+       
+       
+    </form>
+
+    <div id="todo_list">
+        <ul id="list">
+        </ul>
+    </div>
+
+   
+</body>
+</html>
+
+<script src="script.js"></script>
